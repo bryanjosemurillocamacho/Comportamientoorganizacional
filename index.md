@@ -9,29 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+¿Qué es la comunicación interpersonal?
+Se llama comunicación interpersonal al intercambio de información que suele darse entre personas que comparten un espacio físico, es decir, que cohabitan y por ende se ven en la necesidad de emitir y recibir mensajes para normar u organizar la convivencia.
+Cuando se habla de la comunicación interpersonal, sin embargo, no sólo se alude a la verbal, es decir, a la protagonizada por el lenguaje. Está claro que los seres humanos nos distinguimos de los animales por justamente nuestra capacidad de organizar y comunicar nuestra realidad mediante un sistema de signos representados sonora y gráficamente (el lenguaje hablado y escrito respectivamente
+Muchas veces esta comunicación no verbal tiene lugar sin tomar en cuenta la consciencia, es decir, de manera automática o sintomática, sin intencionalidad expresa del emisor. Es lo que ocurre durante el flirteo, por ejemplo.
+De ese modo, entendemos por comunicación interpersonal al conjunto de relaciones de transmisión y codificación de información que se da entre dos o más personas, o incluso al conjunto de habilidades que una persona posee para lidiar con dichas relaciones.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bryanjosemurillocamacho/Comportamientoorganizacional/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
